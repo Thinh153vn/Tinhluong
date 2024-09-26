@@ -11,7 +11,7 @@ const SalaryCalculator = () => {
   const [alert, setAlert] = useState(null);
 
   // Tỉ giá chuyển đổi từ VND sang JPY (giả định)
-  const VND_TO_JPY = 0.0056;
+  const VND_TO_JPY = 1;
 
   useEffect(() => {
     const savedData = localStorage.getItem('salaryData');
