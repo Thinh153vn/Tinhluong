@@ -1,0 +1,2 @@
+# Tinhluong
+Tính lương tháng
